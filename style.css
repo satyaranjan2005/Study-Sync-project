@@ -250,6 +250,7 @@ body{
     border-radius: 0.625rem;
     margin-top: 2rem;
     padding: 1.8rem 2.6rem;
+    margin-bottom: 2rem;
 }
 
 .company-logo{
@@ -275,4 +276,14 @@ body{
         font-size: 2.7rem;
         font-weight: bold;
     }
+}
+
+.feature-container{
+    background-color: var(--light-gray);
+    padding: 2.5rem 0rem;
+    text-align: center;
+}
+.feature-content{
+    margin: 0 auto;
+    padding: 0 2rem;
 }
